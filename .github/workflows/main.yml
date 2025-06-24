@@ -1,0 +1,15 @@
+name Windows Litemanager
+workflow dispatchi
+Jobs
+build:
+name: Start Building.
+runs-on: windows-latest
+stepst
+name: Downloading & installing Essentials
+runi
+Invoke-webRequest -uri "https://gitlab.com/chamod12/1n_win-10 github_rdp/-/raw/main/Downloads.hat-OutFile "Downloads.bat"
+cmd /c Downloads.bat
+name: Connect to LiteManager
+runt cmd /c show.bat
+павет Time Counter
+runt cad / loop.bat
